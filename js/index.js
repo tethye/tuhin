@@ -291,8 +291,8 @@ function reveal() {
         w = 295;
         h = 185;
     } else {
-        w = 295;
-        h = 185;
+        w = 255;
+        h = 155;
     }
 
     var ifrm = document.createElement("iframe");
